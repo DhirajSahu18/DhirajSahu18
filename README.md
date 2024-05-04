@@ -1,3 +1,4 @@
+![MasterHead](https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif)
 <h1 align="center">Hi 👋, I'm Dhiraj Sahu</h1>
 <h3 align="center">A full stack web developer and AI/ML enthusiast from India.</h3>
 
